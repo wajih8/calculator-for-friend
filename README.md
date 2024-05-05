@@ -11,7 +11,7 @@ To run the Python calculator app with PyQt5, you need to have the following inst
 ## Getting Started
 1. **Install Python**: If you haven't already, download and install Python from [Python.org](https://www.python.org/) based on your operating system.
 2. **Install PyQt5**: Use pip to install the PyQt5 library by running the command mentioned above in your terminal or command prompt.
-3. **Set up**: download the provided example files and put the  ( `calculator.ui`, `calculator.py`) in the same directory.
+3. **Set up**: download the provided example files and put the  ( `calculatrice.ui`, `calculatrice.py`) in the same directory.
 4. **Run the App**: Execute the Python file to launch the calculator app. You can do this by navigating to the directory containing your Python file in the terminal or command prompt and running the following command:
 5. **Start Calculating**: Once the app is running, you can use the graphical interface to enter numbers and perform calculations.
 
