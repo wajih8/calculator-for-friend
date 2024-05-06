@@ -17,4 +17,3 @@ To run the Python calculator app with PyQt5, you need to have the following inst
 
 ## Additional Notes
 - Feel free to customize the layout and functionality of the calculator app according to your preferences or specific requirements.
-- You can explore additional features such as memory functions, scientific calculations, or theme customization to enhance the app's capabilities.
